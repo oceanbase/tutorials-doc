@@ -3,3 +3,6 @@
 30.test-oceanbase-database=第三章：测试 OceanBase 数据库
 40.migration-and-synchronization-oceanbase=第四章：OceanBase 数据库的迁移和同步
 50.o-m-oceanbase-database=第五章：运维 OceanBase 数据库
+60.business-development-through-oceanbase=第六章：使用 OceanBase 数据库进行业务开发
+70.diagnosis-and-tuning-of-oceanbase=第七章：OceanBase 数据库的诊断和调优
+80.troubleshooting-and-diagnosis=第八章：OceanBase 数据库故障排查和诊断
