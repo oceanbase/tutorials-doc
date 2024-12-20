@@ -1,0 +1,9 @@
+100.dba-tutorial=Quick Starts and Hands-on Practices with OceanBase for DBAs
+	10.overview-of-the-oceanbase-database=Overview
+	20.deploy-oceanbase-database=Install OceanBase Database Community Edition
+	30.test-oceanbase-database=Test OceanBase Database
+	40.migration-and-synchronization-oceanbase=Migration and synchronization
+	50.o-m-oceanbase-database=Maintenance
+	60.business-development-through-oceanbase=Business development using OceanBase Database
+	70.diagnosis-and-tuning-of-oceanbase=Diagnosis and tuning
+	80.troubleshooting-and-diagnosis=Troubleshooting
